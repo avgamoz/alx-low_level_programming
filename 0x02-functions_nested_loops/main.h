@@ -1,5 +1,5 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef _putchar
+#define _putchar
 
 /**
  * _putchar - writes the character c to stdout
